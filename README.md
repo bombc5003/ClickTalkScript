@@ -21,7 +21,7 @@ Free **5 uses** per machine (machine ID-based).
 
 **코드를 모르는 사람의 코딩**  
 저자: 박병진 · 출판: 부크크(Bookk) · 정가: 6,900원  
-구매: https://bookk.co.kr/search?keywords=%EC%BD%94%EB%93%9C%EB%A5%BC
+구매: https://bookk.co.kr/bookStore/69e8c125ee2f092c79a0efec
 
 > 비개발자가 AI와 협업해 실제 작동하는 소프트웨어를 만드는 과정을 담은 실전서.  
 > 이 앱 ClickTalkScript도 그 결과물 중 하나다.
