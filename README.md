@@ -33,7 +33,7 @@ Free **5 uses** per machine (machine ID-based).
 **"Coding Without Knowing Code"**  
 Author: **Vibe Toolsmith** *(pen name of Byungjin Park)*  
 Publisher: Amazon KDP · Price: $5.00  
-Available in **9 languages** — search *Vibe Toolsmith* on Amazon
+Available in **9 languages** — [구매하기 / Buy on Amazon](https://www.amazon.com/dp/B0GXL8WPTT)
 
 > This app was built by someone who couldn't code — using AI as a co-developer.  
 > The book documents exactly how that was done, step by step.
