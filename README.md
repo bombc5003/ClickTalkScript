@@ -1,6 +1,6 @@
 # ClickTalkScript v1.67 / 녹취록생성기 v1.67
 
-**한글판:** 녹취록생성기v1.67.exe  
+**한글판:** v1.67.exe  
 **English:** ClickTalkScript1.67.exe
 
 AI 기반 음성 녹취 및 스크립트 생성 도구입니다.  
